@@ -1,5 +1,7 @@
 # Detección de enfermeades pulmonares por medio de readiografias de tórax
 
+![Image text](https://github.com/fabian017/INTELIGENCIA-ARTIFICIAL/blob/main/img/Banner.png)
+
 Jose Fabian Jimenez Ovalle, Javier Fernando Carvajal Sanabria, Juan Sebastian Mora Rueda
 
 ## Con el desarrollo de este proyecto se busca crear una ayuda para los profesionales de la salud en la deteccion de enfermedades pulmonares en sus pacientes.
